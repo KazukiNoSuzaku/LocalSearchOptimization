@@ -1,1 +1,1 @@
-My 2017 internship was the first time I worked with adnvaced NLP concepts like Sense2Vector and Word2Vector. Over all it was great leanring experience. I have inculded my code for the small project here.
+My 2017 internship was the first time I worked with adnvaced NLP concepts like Sense2Vector and Word2Vector. Over all it was great leanring experience. I have inculded my code for the small project here. Originally had a whole django framework + infercace for my codes. This is all I could scrap out from all those years ago.
