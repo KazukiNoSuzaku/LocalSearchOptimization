@@ -1,0 +1,1 @@
+My 2017 internship was the first time I worked with adnvaced NLP concepts like Sense2Vector and Word2Vector. Over all it was great leanring experience. I have inculded my code for the small project here.
